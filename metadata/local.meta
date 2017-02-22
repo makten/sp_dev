@@ -1,0 +1,18 @@
+[app/ui]
+version = 6.5.2
+modtime = 1487706529.332206100
+
+[app/launcher]
+version = 6.5.2
+modtime = 1487706529.347239800
+
+[]
+access = read : [ * ], write : [ admin, power ]
+export = system
+version = 6.5.2
+modtime = 1487706550.643759000
+
+[views/hardwarefailurerate]
+owner = admin
+version = 6.5.2
+modtime = 1487742166.680882300
